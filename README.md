@@ -19,11 +19,17 @@ Creating ToDoList using HTML and JavaScript.
 
 ## Usage
 
-1. **Add Task**: Enter a task in the input field and press Enter or click the "Add" button.
+1. **Add Task**:
 
-2. **Mark as Completed**: Click on a task to mark it as completed. Completed tasks will be visually distinguished.
+ Enter a task in the input field and press Enter or click the "Add" button.
 
-3. **Delete Task**: Click on the delete icon next to a task to remove it from the list.
+2. **Mark as Completed**:
+
+Click on a task to mark it as completed. Completed tasks will be visually distinguished.
+
+3. **Delete Task**:
+  
+Click on the delete icon next to a task to remove it from the list.
 
 ## Getting Started
 
