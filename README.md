@@ -67,6 +67,9 @@ If you'd like to contribute to this project, please follow these steps:
 
 5. **Open a pull request on GitHub**.
 
+## Output
+
+
 ## License
 
 Make sure to replace placeholder URLs, project names, and usernames with your actual project details. Additionally, update the contributing guidelines and license information as needed for your project.
